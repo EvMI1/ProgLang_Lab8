@@ -1,0 +1,14 @@
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/bin/Debug/net10.0/ProgLang_Lab8
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/bin/Debug/net10.0/ProgLang_Lab8.deps.json
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/bin/Debug/net10.0/ProgLang_Lab8.runtimeconfig.json
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/bin/Debug/net10.0/ProgLang_Lab8.dll
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/bin/Debug/net10.0/ProgLang_Lab8.pdb
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.AssemblyInfoInputs.cache
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.AssemblyInfo.cs
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.csproj.CoreCompileInputs.cache
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.dll
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/refint/ProgLang_Lab8.dll
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.pdb
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ProgLang_Lab8.genruntimeconfig.cache
+/Users/evm1t/ProgLang/lab8/ProgLang_Lab8/obj/Debug/net10.0/ref/ProgLang_Lab8.dll
